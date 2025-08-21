@@ -1,5 +1,6 @@
 #Data Files
 data
+model
 
 #Checkpoint Files
 .ipynb_checkpoints
